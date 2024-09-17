@@ -4,7 +4,6 @@ author: Osamu SANDAMBATA
 date: 2022-02-04
 category: Jekyll
 layout: post
-lang: jp
 ---
 
 This is an about page.

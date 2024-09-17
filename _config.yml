@@ -1,7 +1,7 @@
 # Configurations
-title:            Jekyll Gitbook
-longtitle:        Jekyll Gitbook
-author:           Osamu SANDANVATA
+title:            Osamu SANDANBATA
+longtitle:        Osamu SANDANBATA
+author:           OS
 email:            osm3@eri.u-tokyo.ac.jp
 description: >
   I am Osamu SANDANBATA
@@ -19,7 +19,7 @@ rss:              RSS
 toc:
   enabled: true
   h_min:   1
-  h_max:   3
+  h_max:   5
 
 # customize the link favicon in header, will be {{site.baseurl}}/{{site.favicon_path}}
 favicon_path:     /assets/gitbook/images/favicon.ico
@@ -47,24 +47,21 @@ permalink:                /:categories/:title:output_ext
 # Disqus comments
 # disqushandler:            sighingnow
 
-lang:
-  jp:
-  en:
-
 exclude:
   - _drafts
 
 collections:
   pages:
     output: true
-    permalink: /:lang/:collection/:path/
+    permalink: /:collection/:path/
   others:
     output: true
-    permalink: /:lang/:collection/:path/
+    permalink: /:collection/:path/
 
 ordered_collections:
-  - posts
+  # - posts
   - pages
+  - posts
   - others
 
 page_width: 800px
