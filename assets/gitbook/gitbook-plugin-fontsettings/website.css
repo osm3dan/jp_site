@@ -80,10 +80,11 @@
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
 .book.color-theme-1 .book-body .page-wrapper .page-inner section.normal {
-  color: #704214;
+  color: #7d4e1e;
 }
 .book.color-theme-1 .book-body .page-wrapper .page-inner section.normal a {
-  color: inherit;
+  /* color: inherit; */
+  color: #7b7470
 }
 .book.color-theme-1 .book-body .page-wrapper .page-inner section.normal h1,
 .book.color-theme-1 .book-body .page-wrapper .page-inner section.normal h2,
