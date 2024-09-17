@@ -47,16 +47,20 @@ permalink:                /:categories/:title:output_ext
 # Disqus comments
 # disqushandler:            sighingnow
 
+lang:
+  jp:
+  en:
+
 exclude:
   - _drafts
 
 collections:
   pages:
     output: true
-    permalink: /:collection/:path/
+    permalink: /:lang/:collection/:path/
   others:
     output: true
-    permalink: /:collection/:path/
+    permalink: /:lang/:collection/:path/
 
 ordered_collections:
   - posts
