@@ -1,5 +1,5 @@
 ---
-title: News
+title: ニュース
 author: Osamu SANDAMBATA
 date: 2024-09-17
 # category: Jekyll

@@ -1,12 +1,12 @@
 ---
 layout: home
-title: Osamu SANDANBATA
+title: 三反畑　修
 permalink: /
 ---
 
 -
 
-三反畑 修 （さんだんばた おさむ）
+さんだんばた おさむ
 
 東京大学地震研究所　地球計測系研究部門　助教
 

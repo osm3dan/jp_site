@@ -6,4 +6,4 @@ author: OS
 layout: home
 ---
 
-English page is [here](https://osm3dan.github.io/en_page)
+English page is [here](https://osm3dan.github.io/en_site)
