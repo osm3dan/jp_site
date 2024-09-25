@@ -45,5 +45,9 @@ layout: post
 - [sighingnow/jekyll-gitbook: Build Jekyll site with GitBook style!](https://github.com/sighingnow/jekyll-gitbook)
 - [Jekyll](https://jekyllrb.com/)
 
+（追記2024/09/25）Google Analyticsによるサイト訪問者の解析をできるようにした．Google AnalyticsのIDを埋め込むだけでなく，Google Tabなるものを設定しておかないとうまくいかないらしい．参考させていただいたのは下記のページ．
+- [@chikurin66 (Yuto Takebayashi)—GitHub Pagesで作成したサイトのアクセス解析を行う](https://qiita.com/chikurin66/items/b776c9a2e5a8ebf0dd68)
+- [@tetsuro731(テッツォ)—GA4の導入をGitHub Pagesで試してみる【Google Analytics4】](https://qiita.com/tetsuro731/items/55b17227c37d0daeeccc) 
+
 #github #jekyll 
 
