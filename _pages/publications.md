@@ -1,5 +1,6 @@
 ---
 layout: post
+date: 2024-09-17
 title: 論文
 ---
 

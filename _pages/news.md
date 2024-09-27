@@ -8,9 +8,7 @@ layout: post
 
 ### 2024.
 
-2024/09/27: 2024年9月24日 鳥島近海で発生した地震と津波について 更新. [資料(v1.1)](https://osm3dan.github.io/assets/240924_torishima/240924_torishima_v1.1.pdf)
-
-2024/09/25: 2024年9月24日 鳥島近海で発生した地震と津波について. [資料(v1.0)](https://osm3dan.github.io/assets/240924_torishima/240924_torishima_v1.pdf)
+2024/09/25: 9月24日に鳥島近海で発生した地震と津波について. [地震・津波・火山活動](../../pages/jishin/#2024年9月24日-鳥島近海地震津波)
 
 2024/09/23: 韓国ソウル大学 講演. [Center for Deep Surface Coupling of Earth, Seoul National University](https://deepsurf.snu.ac.kr/category/board-141-GR-EhlQB5Q8-20230411185154/)
 
