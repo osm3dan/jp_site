@@ -49,5 +49,9 @@ layout: post
 - [@chikurin66 (Yuto Takebayashi)—GitHub Pagesで作成したサイトのアクセス解析を行う](https://qiita.com/chikurin66/items/b776c9a2e5a8ebf0dd68)
 - [@tetsuro731(テッツォ)—GA4の導入をGitHub Pagesで試してみる【Google Analytics4】](https://qiita.com/tetsuro731/items/55b17227c37d0daeeccc) 
 
+（追記 2024/10/01）Google検索に新しいサイトが引っ掛からなくなったので，下記を参考に設定．大事な時にリンクが働かなかったようだ．
+- [@NightOwl GitHubのリポジトリがGoogle検索に引っかからないのでやったこと](https://qiita.com/NightOwl/items/a7f972ba70f1ad037d65)
+
+
 #github #jekyll 
 
