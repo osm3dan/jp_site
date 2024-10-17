@@ -6,14 +6,15 @@ title: 論文
 
 ### 投稿済み論文
 
-Takemura, S., Kubota, T., & Sandanbata O., Successive tsunamigenic events near the Sofu Seamount inferred from high-frequency teleseismic P and regional T waves (in press). *ESS Open Archive (Preprint)*, [https://doi.org/10.22541/essoar.172107980.08343842/v1](https://doi.org/10.22541/essoar.172107980.08343842/v1)
-
--
-
 Sandanbata, O. & Saito, T., Segmented trapdoor fault in Kita-Ioto Caldera, Japan: Insights from milli-meter tsunami waves captured by an array network of ocean bottom pressure gauges (under review). Preprint: [https://doi.org/10.22541/essoar.172072454.49207214/v1](https://doi.org/10.22541/essoar.172072454.49207214/v1)
 
 
 ### 査読付き論文
+
+
+Takemura, S., Kubota, T., & Sandanbata, O. (2024). Successive tsunamigenic events near Sofu Seamount inferred from high-frequency teleseismic P and regional T waves. *Journal of Geophysical Research: Solid Earth*, 129, e2024JB029746. [https://doi.org/10.1029/2024JB029746](https://doi.org/10.1029/2024JB029746)
+
+-
 
 Kubota, T., Sandanbata, O., Saito, T., & Matsuzawa, T. (2024). Accelerating seafloor uplift of submarine caldera near Sofugan volcano, Japan, resolved by distant tsunami recordings. *Geophysical Research Letters*, 51(12). [https://doi.org/10.1029/2024gl108415](https://doi.org/10.1029/2024gl108415)
 

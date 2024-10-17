@@ -8,6 +8,8 @@ layout: post
 
 ### 2024.
 
+2024/10/17: 共著論文出版. [Takemura *et al.* (2024, JGR: Solid Earth)](https://doi.org/10.1029/2024JB029746)
+
 2024/09/25: 9月24日に鳥島近海で発生した地震と津波について. [地震・津波・火山活動](../../pages/jishin/#2024年9月24日-鳥島近海地震津波)
 
 2024/09/23: 韓国ソウル大学 講演. [Center for Deep Surface Coupling of Earth, Seoul National University](https://deepsurf.snu.ac.kr/category/board-141-GR-EhlQB5Q8-20230411185154/)
