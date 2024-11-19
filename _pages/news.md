@@ -38,7 +38,7 @@ layout: post
 
 2022/10/17: スタンフォード大学渡航報告書. [学術変革領域 Slow-to-Fast地震学](https://slow-to-fast-eq.org/events/news/overseas_2022)
 
-2022/09/12: 主著論文出版. [Sandanbata *et al.* (2022, JGR: olid Earth)](https://doi.org/10.1029/2022JB024213)
+2022/09/12: 主著論文出版. [Sandanbata *et al.* (2022, JGR: Solid Earth)](https://doi.org/10.1029/2022JB024213)
 
 2022/09/12: 共著論文出版. [Kubo *et al.* (2022, EPS)](https://doi.org/10.1186/s40623-022-01663-w)
 
