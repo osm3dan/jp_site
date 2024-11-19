@@ -17,6 +17,8 @@ Takemura, S., Kubota, T., & Sandanbata, O. (2024). Successive tsunamigenic event
 
 Kubota, T., Sandanbata, O., Saito, T., & Matsuzawa, T. (2024). Accelerating seafloor uplift of submarine caldera near Sofugan volcano, Japan, resolved by distant tsunami recordings. *Geophysical Research Letters*, 51(12). [https://doi.org/10.1029/2024gl108415](https://doi.org/10.1029/2024gl108415)
 
+-
+
 Sandanbata, O., Satake, K., Takemura, S., Watada, S., Maeda, T., & Kubota, T. (2024). Enigmatic tsunami waves amplified by repetitive source events near Sofugan volcano, Japan. *Geophysical Research Letters*, 51, e2023GL106949. [https://doi.org/10.1029/2023GL106949](https://doi.org/10.1029/2023GL106949)
 
 -
@@ -77,4 +79,3 @@ Fukao, Y., Sandanbata, O., Sugioka, H., Ito, A., Shiobara, H., Watada, S., & Sat
 
 Sandanbata, O., Obara, K., Maeda, T., Takagi, R., & Satake, K. (2015). Sudden changes in the amplitude‐frequency distribution of long‐period tremors at Aso volcano, southwest Japan, *Geophysical Research Letters*, 42, 10,256–10,262. [https://doi.org/10.1002/2015GL066443](https://doi.org/10.1002/2015GL066443)
 
--
