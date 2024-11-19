@@ -6,7 +6,7 @@ title: 論文
 
 ### 投稿済み論文
 
-Sandanbata, O. & Saito, T., Segmented trapdoor fault in Kita-Ioto Caldera, Japan: Insights from milli-meter tsunami waves captured by an array network of ocean bottom pressure gauges (under review). Preprint: [https://doi.org/10.22541/essoar.172072454.49207214/v1](https://doi.org/10.22541/essoar.172072454.49207214/v1)
+Sandanbata, O. & Saito, T., Segmented trapdoor fault in Kita-Ioto Caldera, Japan: Insights from milli-meter tsunami waves captured by an array network of ocean bottom pressure gauges (accepted for Journal of Geophysical Research: Solid Earth). Preprint: [https://doi.org/10.22541/essoar.172072454.49207214/v1](https://doi.org/10.22541/essoar.172072454.49207214/v1)
 
 
 ### 査読付き論文
