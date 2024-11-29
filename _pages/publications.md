@@ -6,10 +6,13 @@ title: 論文
 
 ### 投稿済み論文
 
-Sandanbata, O. & Saito, T., Segmented trapdoor fault in Kita-Ioto Caldera, Japan: Insights from milli-meter tsunami waves captured by an array network of ocean bottom pressure gauges (accepted for Journal of Geophysical Research: Solid Earth). Preprint: [https://doi.org/10.22541/essoar.172072454.49207214/v1](https://doi.org/10.22541/essoar.172072454.49207214/v1)
-
+-
 
 ### 査読付き論文
+
+Sandanbata, O., & Saito, T. (2024). Segmented Trapdoor Fault in Kita-Ioto Caldera, Japan: Insights From Millimeter Tsunami Waves Captured by an Array Network of Ocean Bottom Pressure Gauges. *Journal of Geophysical Research: Solid Earth*, 129(12), e2024JB029755. [https://doi.org/10.1029/2024JB029755](https://doi.org/10.1029/2024JB029755)
+
+-
 
 Takemura, S., Kubota, T., & Sandanbata, O. (2024). Successive tsunamigenic events near Sofu Seamount inferred from high-frequency teleseismic P and regional T waves. *Journal of Geophysical Research: Solid Earth*, 129, e2024JB029746. [https://doi.org/10.1029/2024JB029746](https://doi.org/10.1029/2024JB029746)
 
