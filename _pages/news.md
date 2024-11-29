@@ -8,7 +8,7 @@ layout: post
 
 ### 2024.
 
-2024/11/29: 主著論文出版. [Sandanbata & Saito (2024b, JGR: Solid Earth)](https://doi.org/10.1029/2024JB029755
+2024/11/29: 主著論文出版. [Sandanbata & Saito (2024b, JGR: Solid Earth)](https://doi.org/10.1029/2024JB029755)
 
 2024/10/17: 共著論文出版. [Takemura *et al.* (2024, JGR: Solid Earth)](https://doi.org/10.1029/2024JB029746)
 
