@@ -48,6 +48,8 @@ Kubota, T., Saito, T., Chikasada, N. Y., & Sandanbata, O. (2021). Meteotsunami o
 
 Lai, V. H., Zhan, Z., Brissaud, Q., Sandanbata, O., & Miller, M. S. (2021). Inflation and Asymmetric Collapse at Kilauea Summit during the 2018 Eruption from Seismic and Infrasound Analyses, *Journal of Geophysical Research: Solid Earth*, 126(10), e2021JB022139. [https://doi.org/10.1029/2021JB022139](https://doi.org/10.1029/2021JB022139)
 
+-
+
 Sandanbata, O., Kanamori, H., Rivera, L., Zhan, Z., Watada, S., & Satake, K. (2021). Moment tensors of ring-faulting at active volcanoes: Insights into vertical-CLVD earthquakes at the Sierra Negra caldera, Galápagos Islands, *Journal of Geophysical Research: Solid Earth*, 126(6), e2021JB021693. [https://doi.org/10.1029/2021JB021693](https://doi.org/10.1029/2021JB021693)
 
 -
@@ -82,3 +84,4 @@ Fukao, Y., Sandanbata, O., Sugioka, H., Ito, A., Shiobara, H., Watada, S., & Sat
 
 Sandanbata, O., Obara, K., Maeda, T., Takagi, R., & Satake, K. (2015). Sudden changes in the amplitude‐frequency distribution of long‐period tremors at Aso volcano, southwest Japan, *Geophysical Research Letters*, 42, 10,256–10,262. [https://doi.org/10.1002/2015GL066443](https://doi.org/10.1002/2015GL066443)
 
+-
