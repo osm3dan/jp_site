@@ -8,6 +8,8 @@ layout: post
 
 ### 2024.
 
+2024/11/29: 主著論文出版. [Sandanbata & Saito (2024b, JGR: Solid Earth)](https://doi.org/10.1029/2024JB029755
+
 2024/10/17: 共著論文出版. [Takemura *et al.* (2024, JGR: Solid Earth)](https://doi.org/10.1029/2024JB029746)
 
 2024/09/25: 9月24日に鳥島近海で発生した地震と津波について. [地震・津波・火山活動](../../pages/jishin/#2024年9月24日-鳥島近海地震津波)
