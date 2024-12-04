@@ -26,13 +26,13 @@ layout: post
 
 ### 2023.
 
-2024/12/27: 主著論文出版. [Sandanbata & Saito (2024, JGR: Solid Earth)](https://doi.org/10.1029/2023JB027917) [[解説]](https://www.eri.u-tokyo.ac.jp/research/20586/)
+2023/12/27: 主著論文出版. [Sandanbata & Saito (2024a, JGR: Solid Earth)](https://doi.org/10.1029/2023JB027917) [[解説]](https://www.eri.u-tokyo.ac.jp/research/20586/)
 
-2024/05/01: 東京大学地震研究所 地球計測系研究部門 助教 着任
+2023/05/01: 東京大学地震研究所 地球計測系研究部門 助教 着任
 
-2024/04/03: 主著論文出版. [Sandanbata *et al.* (2023, GRL)](https://doi.org/10.1029/2022GL101086)
+2023/04/03: 主著論文出版. [Sandanbata *et al.* (2023, GRL)](https://doi.org/10.1029/2022GL101086)
 
-2024/01/31: 国際学会 IAVCEI 2023 総会講演. [ECR Plenary Session](https://confer.eventsair.com/iavcei2023/plenary-speakers)
+2023/01/31: 国際学会 IAVCEI 2023 総会講演. [ECR Plenary Session](https://confer.eventsair.com/iavcei2023/plenary-speakers)
 
 ### 2022.
 
