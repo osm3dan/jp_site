@@ -8,9 +8,9 @@ layout: post
 
 ### 2024.
 
-2024/11/29: 主著論文出版. [Sandanbata & Saito (2024b, JGR: Solid Earth)](https://doi.org/10.1029/2024JB029755)
+2024/11/29: 主著論文出版. [Sandanbata & Saito (2024b, JGR: Solid Earth)](https://doi.org/10.1029/2024JB029755) [[解説]](https://www.eri.u-tokyo.ac.jp/research/22923/)
 
-2024/10/17: 共著論文出版. [Takemura *et al.* (2024, JGR: Solid Earth)](https://doi.org/10.1029/2024JB029746)
+2024/10/17: 共著論文出版. [Takemura *et al.* (2024, JGR: Solid Earth)](https://doi.org/10.1029/2024JB029746) [[解説]](https://www.eri.u-tokyo.ac.jp/research/22620/)
 
 2024/09/25: 9月24日に鳥島近海で発生した地震と津波について. [地震・津波・火山活動](../../pages/jishin/#2024年9月24日-鳥島近海地震津波)
 
@@ -18,15 +18,15 @@ layout: post
 
 2024/09/17: ウェブサイト刷新
 
-2024/06/25: 共著論文出版. [Kubota *et al.* (2024, JGR: Solid Earth)](https://doi.org/10.1029/2024GL108415)
+2024/06/25: 共著論文出版. [Kubota *et al.* (2024, JGR: Solid Earth)](https://doi.org/10.1029/2024GL108415) [[解説]](https://quaketm.bosai.go.jp/~kubota/publications/Kubota_etal_2024_GRL/)
 
 2024/04/21: インタビュー記事掲載. [東京新聞](https://www.tokyo-np.co.jp/article/322603)
 
-2024/01/21: 主著論文出版. [Sandanbata *et al.* (2024, GRL)](https://doi.org/10.1029/2023GL106949)
+2024/01/21: 主著論文出版. [Sandanbata *et al.* (2024, GRL)](https://doi.org/10.1029/2023GL106949) [[プレスリリース]](https://www.eri.u-tokyo.ac.jp/award/20666/)
 
 ### 2023.
 
-2024/12/27: 主著論文出版. [Sandanbata & Saito (2024, JGR: Solid Earth)](https://doi.org/10.1029/2023JB027917)
+2024/12/27: 主著論文出版. [Sandanbata & Saito (2024, JGR: Solid Earth)](https://doi.org/10.1029/2023JB027917) [[解説]](https://www.eri.u-tokyo.ac.jp/research/20586/)
 
 2024/05/01: 東京大学地震研究所 地球計測系研究部門 助教 着任
 
@@ -40,7 +40,7 @@ layout: post
 
 2022/10/17: スタンフォード大学渡航報告書. [学術変革領域 Slow-to-Fast地震学](https://slow-to-fast-eq.org/events/news/overseas_2022)
 
-2022/09/12: 主著論文出版. [Sandanbata *et al.* (2022, JGR: Solid Earth)](https://doi.org/10.1029/2022JB024213)
+2022/09/12: 主著論文出版. [Sandanbata *et al.* (2022, JGR: Solid Earth)](https://doi.org/10.1029/2022JB024213)  [[解説]](https://www.eri.u-tokyo.ac.jp/research/17626/)
 
 2022/09/12: 共著論文出版. [Kubo *et al.* (2022, EPS)](https://doi.org/10.1186/s40623-022-01663-w)
 
@@ -50,7 +50,7 @@ layout: post
 
 2021/09/30: 共著論文出版. [Lai *et al.* (2021, JGR: Solid Earth](https://doi.org/10.1029/2021JB022139)
 
-2021/05/17: 主著論文出版. [Sandanbata *et al.* (2021, JGR: olid Earth)](https://doi.org/10.1029/2021JB021693)
+2021/05/17: 主著論文出版. [Sandanbata *et al.* (2021, JGR: Solid Earth)](https://doi.org/10.1029/2021JB021693)
 
 2021/05/17: 主著論文出版. [Sandanbata *et al.* (2021, GJI)](https://doi.org/10.1093/gji/ggab192)
 

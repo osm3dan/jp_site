@@ -10,15 +10,15 @@ title: 論文
 
 ### 査読付き論文
 
-Sandanbata, O., & Saito, T. (2024). Segmented Trapdoor Fault in Kita-Ioto Caldera, Japan: Insights From Millimeter Tsunami Waves Captured by an Array Network of Ocean Bottom Pressure Gauges. *Journal of Geophysical Research: Solid Earth*, 129(12), e2024JB029755. [https://doi.org/10.1029/2024JB029755](https://doi.org/10.1029/2024JB029755)
+Sandanbata, O., & Saito, T. (2024). Segmented Trapdoor Fault in Kita-Ioto Caldera, Japan: Insights From Millimeter Tsunami Waves Captured by an Array Network of Ocean Bottom Pressure Gauges. *Journal of Geophysical Research: Solid Earth*, 129(12), e2024JB029755. [https://doi.org/10.1029/2024JB029755](https://doi.org/10.1029/2024JB029755) [[解説]](https://www.eri.u-tokyo.ac.jp/research/22923/)
 
 -
 
-Takemura, S., Kubota, T., & Sandanbata, O. (2024). Successive tsunamigenic events near Sofu Seamount inferred from high-frequency teleseismic P and regional T waves. *Journal of Geophysical Research: Solid Earth*, 129, e2024JB029746. [https://doi.org/10.1029/2024JB029746](https://doi.org/10.1029/2024JB029746)
+Takemura, S., Kubota, T., & Sandanbata, O. (2024). Successive tsunamigenic events near Sofu Seamount inferred from high-frequency teleseismic P and regional T waves. *Journal of Geophysical Research: Solid Earth*, 129, e2024JB029746. [https://doi.org/10.1029/2024JB029746](https://doi.org/10.1029/2024JB029746) [[解説]](https://www.eri.u-tokyo.ac.jp/research/22620/)
 
 -
 
-Kubota, T., Sandanbata, O., Saito, T., & Matsuzawa, T. (2024). Accelerating seafloor uplift of submarine caldera near Sofugan volcano, Japan, resolved by distant tsunami recordings. *Geophysical Research Letters*, 51(12). [https://doi.org/10.1029/2024gl108415](https://doi.org/10.1029/2024gl108415)
+Kubota, T., Sandanbata, O., Saito, T., & Matsuzawa, T. (2024). Accelerating seafloor uplift of submarine caldera near Sofugan volcano, Japan, resolved by distant tsunami recordings. *Geophysical Research Letters*, 51(12). [https://doi.org/10.1029/2024gl108415](https://doi.org/10.1029/2024gl108415) [[解説]](https://quaketm.bosai.go.jp/~kubota/publications/Kubota_etal_2024_GRL/)
 
 -
 
