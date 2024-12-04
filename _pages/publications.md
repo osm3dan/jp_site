@@ -34,7 +34,7 @@ Sandanbata, O., Watada, S., Satake, K., Kanamori, H., & Rivera, L. (2023). Two v
 
 -
 
-Sandanbata, O., Watada, S., Satake, K., Kanamori, H., Rivera, L., & Zhan, Z. (2022). Sub-decadal volcanic tsunamis due to submarine trapdoor faulting at Sumisu caldera in the Izu–Bonin Arc. *Journal of Geophysical Research: Solid Earth*, 127, e2022JB024213. [https://doi.org/10.1029/2022JB024213](https://doi.org/10.1029/2022JB024213)
+Sandanbata, O., Watada, S., Satake, K., Kanamori, H., Rivera, L., & Zhan, Z. (2022). Sub-decadal volcanic tsunamis due to submarine trapdoor faulting at Sumisu caldera in the Izu–Bonin Arc. *Journal of Geophysical Research: Solid Earth*, 127, e2022JB024213. [https://doi.org/10.1029/2022JB024213](https://doi.org/10.1029/2022JB024213) [[解説]](https://www.eri.u-tokyo.ac.jp/research/17626/)
 
 -
 
