@@ -8,6 +8,8 @@ layout: post
 
 ### 2024.
 
+2024/12/10: 2024 年度「経団連フォーラム21/経団連グリーンフォーラム」講演. 
+
 2024/11/29: 主著論文出版. [Sandanbata & Saito (2024b, JGR: Solid Earth)](https://doi.org/10.1029/2024JB029755) [[解説]](https://www.eri.u-tokyo.ac.jp/research/22923/)
 
 2024/10/17: 共著論文出版. [Takemura *et al.* (2024, JGR: Solid Earth)](https://doi.org/10.1029/2024JB029746) [[解説]](https://www.eri.u-tokyo.ac.jp/research/22620/)
