@@ -8,7 +8,7 @@ layout: post
 
 ### 2024.
 
-2024/12/10: 2024 年度「経団連フォーラム21/経団連グリーンフォーラム」講演. 
+2024/12/10: 2024 年度「経団連フォーラム21/経団連グリーンフォーラム」講演. [雑感](https://osm3dan.github.io/jp_site/pages/zakkan/#:~:text=2024/12/10%202024%20%E5%B9%B4%E5%BA%A6%E3%80%8C%E7%B5%8C%E5%9B%A3%E9%80%A3%E3%83%95%E3%82%A9%E3%83%BC%E3%83%A9%E3%83%A0%2021/%E7%B5%8C%E5%9B%A3%E9%80%A3%E3%82%B0%E3%83%AA%E3%83%BC%E3%83%B3%E3%83%95%E3%82%A9%E3%83%BC%E3%83%A9%E3%83%A0%E3%80%8D12%E6%9C%88%E6%8B%A1%E5%A4%A7%E8%AC%9B%E5%BA%A7%E3%81%AB%E3%81%8A%E3%81%84%E3%81%A6%E8%AC%9B%E6%BC%94) 
 
 2024/11/29: 主著論文出版. [Sandanbata & Saito (2024b, JGR: Solid Earth)](https://doi.org/10.1029/2024JB029755) [[解説]](https://www.eri.u-tokyo.ac.jp/research/22923/)
 
