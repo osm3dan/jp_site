@@ -13,6 +13,8 @@ layout: post
 
 [一般社団法人 経団連事業サービス](https://www.keidanren-jigyoservice.or.jp/)の研修事業、「[経団連フォーラム21](https://www.keidanren-jigyoservice.or.jp/seminar/cat3/21/)/[経団連グリーンフォーラム](https://www.keidanren-jigyoservice.or.jp/seminar/cat3/cat/)」の2024年度12月拡大講座において、大変光栄なことに講師としてご招待いただきました。「火山と津波の謎を解く—海底火山研究の最先端—」という題目で私が関わる研究分野と研究成果について、さまざまな企業の方々を前にお話しさせていただきました。経済界に近い方々を前にお話をすることは初めてのことで、五月ごろに担当者の方からご依頼を受けてからのプレッシャーは小さくありませんでしたし、我々の理学的研究は経済界からの距離は近くはないなかで、ご聴講された方々にどのように映ったか私には分かりかねますが、全力で大役を務めさせていただきました。
 
+（2025/1/28追記）経団連タイムスに関連記事が掲載されました。[リンク](https://www.keidanren.or.jp/journal/times/2025/0123_14.html) 
+
 #outreach #publich_lecture
 
 -
