@@ -8,6 +8,10 @@ layout: post
 
 ### 2025.
 
+2025/02/17: 共著論文 "AGU Editor's Highlight"選出. [[Link]](https://eos.org/editor-highlights/t-waves-may-improve-tsunami-early-warning-systems)
+
+2025/02/09: 国際学会 AGU Chapman Conference 参加. [[Link]](https://agu.confex.com/agu/25chapman2/prelim.cgi/Person/231805)
+
 2025/01/23: 経団連タイムスに関連記事掲載. [リンク](https://www.keidanren.or.jp/journal/times/2025/0123_14.html) 
 
 ### 2024.
