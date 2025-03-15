@@ -70,10 +70,6 @@ Wang, Y., Satake, K., Sandanbata, O., Maeda, T., & Su, H. (2019). Tsunami data a
 
 -
 
-Sandanbata, O., Shiobara, H., Kusumoto, S., Kim, H. J., Oba, A., Liu, Q., Ueda, T., Ogawa, M., Takano, K., Kotobuki, I., & Wang, Y. (2018). Equipment of Miniature Instruments to Measure Tsunami Waves in an Experimental Tank (in Japanese), *Technical Research Report, Earthquake Research Institute*, the University of Tokyo, 24, 29-34. [http://www.eri.u-tokyo.ac.jp/GIHOU/archive/24_029-034.pdf](http://www.eri.u-tokyo.ac.jp/GIHOU/archive/24_029-034.pdf)
-
--
-
 Sandanbata, O., Watada, S., Satake, K., Fukao, Y., Sugioka, H., Ito, A., & Shiobara, H. (2018). Ray Tracing for Dispersive Tsunamis and Source Amplitude Estimation Based on Green’s Law: Application to the 2015 Volcanic Tsunami Earthquake Near Torishima, South of Japan, *Pure and Applied Geophysics*, 175, 1371–1385. [https://doi.org/10.1007/s00024-017-1746-0](https://doi.org/10.1007/s00024-017-1746-0)
 
 -
