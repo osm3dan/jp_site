@@ -90,9 +90,11 @@ Sandanbata, O., Obara, K., Maeda, T., Takagi, R., & Satake, K. (2015). Sudden ch
 
 長谷川健, 松本恵子, 橋本武志, 畑真紀, 岩橋くるみ, 無盡真弓, 村松弾, 大橋正俊, 三反畑修, 嶋野岳人, 田中良, 安田裕紀 (2023). IAVCEI (国際火山学地球内部化学協会) 2023 年大会参加報告 (その 1): セッションとワークショップの概況. *火山*, 68(2), 105–113. [https://doi.org/10.18940/kazan.68.2_105](https://doi.org/10.18940/kazan.68.2_105)
 
-- 
+-
 
 松本恵子, Chris Conwey, 畑真紀., 伊藤久敏, 岩橋くるみ, 片岡香子, 片岡香子, 森田雅明, 西原歩, 三反畑修, 渡部将太, 山﨑誠子, 長谷川健 (2023). IAVCEI（国際火山学地球内部化学協会）2023年大会参加報告（その2）：巡検と学会参加の感想. *火山*, 68(2), 115–123. [https://doi.org/10.18940/kazan.68.2_115](https://doi.org/10.18940/kazan.68.2_115)
+
+-
 
 三反畑修, 塩原肇, 楠本聡, HyeJeong Kim, 大峡充己, Qi Liu, 上田拓, 小川諄, 高野和俊, 壽一哲, Yuchen Wang (2018). 津波実験水槽におけるミニチュア津波観測装置の設置, *東京大学地震研究所技術研究報告*, 24, 29-34. [https://doi.org/10.15083/00076922](https://doi.org/10.15083/00076922)
 
@@ -101,6 +103,10 @@ Sandanbata, O., Obara, K., Maeda, T., Takagi, R., & Satake, K. (2015). Sudden ch
 三反畑修 (2024). 鳥島近海から突然押し寄せた「謎の津波」の正体は, *日本地震学会広報誌「なゐふる」*, 137, 2-3.
 [https://www.zisin.jp/publications/pdf/nf-vol137.pdf](https://www.zisin.jp/publications/pdf/nf-vol137.pdf) [[日本地震学会広報誌「なゐふる」]](https://www.zisin.jp/publications/naifuru.html)
 
+-
+
 三反畑修 (2022). 若手研究者海外派遣報告­（Stanford大学）, *Slow-to-Fast地震学（令和3〜7年度 文部科学省 科学研究費助成事業）*, 2022年10月17日公開. [https://slow-to-fast-eq.org/events/news/overseas_2022](https://slow-to-fast-eq.org/events/news/overseas_2022).
+
+-
 
 三反畑修 (2019).『急がば回れ』でようやく辿り着いた Caltech, *日本地震学会ニュースレター*, 72巻，第NL4号, 48–49. 2019年11月10日発行. [日本地震学会ニュースレター](https://www.zisin.jp/publications/news72.html) ([PDF](/assets/publications/SSJ_newsletter.pdf))
