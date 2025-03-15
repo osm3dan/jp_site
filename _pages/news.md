@@ -8,15 +8,15 @@ layout: post
 
 ### 2025.
 
-2025/02/17: 共著論文 "AGU Editor's Highlight"選出. [[Link]](https://eos.org/editor-highlights/t-waves-may-improve-tsunami-early-warning-systems)
+2025/02/17: 共著論文 "AGU Editor's Highlight"選出. [[リンク]](https://eos.org/editor-highlights/t-waves-may-improve-tsunami-early-warning-systems)
 
-2025/02/09: 国際学会 AGU Chapman Conference 参加. [[Link]](https://agu.confex.com/agu/25chapman2/prelim.cgi/Person/231805)
+2025/02/09: 国際学会 AGU Chapman Conference 参加. [[リンク]](https://agu.confex.com/agu/25chapman2/prelim.cgi/Person/231805)
 
-2025/01/23: 経団連タイムスに関連記事掲載. [リンク](https://www.keidanren.or.jp/journal/times/2025/0123_14.html) 
+2025/01/23: 経団連タイムスに関連記事掲載. [[リンク]](https://www.keidanren.or.jp/journal/times/2025/0123_14.html) 
 
 ### 2024.
 
-2024/12/10: 2024 年度「経団連フォーラム21/経団連グリーンフォーラム」講演. [雑感](https://osm3dan.github.io/jp_site/pages/zakkan/#:~:text=2024/12/10%202024%20%E5%B9%B4%E5%BA%A6%E3%80%8C%E7%B5%8C%E5%9B%A3%E9%80%A3%E3%83%95%E3%82%A9%E3%83%BC%E3%83%A9%E3%83%A0%2021/%E7%B5%8C%E5%9B%A3%E9%80%A3%E3%82%B0%E3%83%AA%E3%83%BC%E3%83%B3%E3%83%95%E3%82%A9%E3%83%BC%E3%83%A9%E3%83%A0%E3%80%8D12%E6%9C%88%E6%8B%A1%E5%A4%A7%E8%AC%9B%E5%BA%A7%E3%81%AB%E3%81%8A%E3%81%84%E3%81%A6%E8%AC%9B%E6%BC%94) 
+2024/12/10: 2024 年度「経団連フォーラム21/経団連グリーンフォーラム」講演. [[雑感]](https://osm3dan.github.io/jp_site/pages/zakkan/#:~:text=2024/12/10%202024%20%E5%B9%B4%E5%BA%A6%E3%80%8C%E7%B5%8C%E5%9B%A3%E9%80%A3%E3%83%95%E3%82%A9%E3%83%BC%E3%83%A9%E3%83%A0%2021/%E7%B5%8C%E5%9B%A3%E9%80%A3%E3%82%B0%E3%83%AA%E3%83%BC%E3%83%B3%E3%83%95%E3%82%A9%E3%83%BC%E3%83%A9%E3%83%A0%E3%80%8D12%E6%9C%88%E6%8B%A1%E5%A4%A7%E8%AC%9B%E5%BA%A7%E3%81%AB%E3%81%8A%E3%81%84%E3%81%A6%E8%AC%9B%E6%BC%94) 
 
 2024/11/29: 主著論文出版. [Sandanbata & Saito (2024b, JGR: Solid Earth)](https://doi.org/10.1029/2024JB029755) [[解説]](https://www.eri.u-tokyo.ac.jp/research/22923/)
 
