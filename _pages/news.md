@@ -8,6 +8,10 @@ layout: post
 
 ### 2025.
 
+2025/03/25: 地震研スプリングスクール「水槽実験・観測・数値計算を通して津波の基礎を学ぶ」開講． [[リンク]](https://www.eri.u-tokyo.ac.jp/education/spring_school_2025/) 
+
+ <!-- [[雑感]](https://osm3dan.github.io/jp_site/pages/zakkan/#:~:text=2025/03/26) -->
+
 2025/02/17: 共著論文 "AGU Editor's Highlight"選出. [[リンク]](https://eos.org/editor-highlights/t-waves-may-improve-tsunami-early-warning-systems)
 
 2025/02/09: 国際学会 AGU Chapman Conference 参加. [[リンク]](https://agu.confex.com/agu/25chapman2/prelim.cgi/Person/231805)
