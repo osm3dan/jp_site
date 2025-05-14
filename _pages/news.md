@@ -8,7 +8,7 @@ layout: post
 
 ### 2025.
 
-2025/05/14: 地震研究所 第29回サイエンスカフェにて話題提供 [[Link]](https://www.eri.u-tokyo.ac.jp/gallery/23839/)
+2025/05/14: 地震研究所「第29回サイエンスカフェ」にて話題提供 [[Link]](https://www.eri.u-tokyo.ac.jp/gallery/23839/)
 
 2025/04/01: JSPS招へい研究者 (長期)・Hélène Le Mével博士 来訪 [[Link]](https://www.jsps.go.jp/file/storage/j-inv/adoptlist/2025/2025_long_3_j.pdf)
 
