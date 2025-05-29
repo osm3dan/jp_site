@@ -8,9 +8,13 @@ layout: post
 
 ### 2025.
 
-2025/05/14: 地震研究所「第29回サイエンスカフェ」にて話題提供 [[Link]](https://www.eri.u-tokyo.ac.jp/gallery/23839/)
+2025/05/28: JpGU2025「海域火山」セッション 招待講演. [[Link]](https://confit.atlas.jp/guide/event/jpgu2025/subject/SVC36-03/detail) 
 
-2025/04/01: JSPS招へい研究者 (長期)・Hélène Le Mével博士 来訪 [[Link]](https://www.jsps.go.jp/file/storage/j-inv/adoptlist/2025/2025_long_3_j.pdf)
+2025/05/14: 日本火山学会「研究奨励賞」 授賞. [[リンク]](https://kazan-g.sakura.ne.jp/J/doc/awards/VSJ_Young_Scientist_Award/34.html)
+
+2025/05/14: 地震研究所「第29回サイエンスカフェ」 話題提供. [[リンク]](https://www.eri.u-tokyo.ac.jp/gallery/23839/)
+
+2025/04/01: JSPS招へい研究者 (長期)・Hélène Le Mével博士 来訪. [[リンク]](https://www.jsps.go.jp/file/storage/j-inv/adoptlist/2025/2025_long_3_j.pdf)
 
 2025/03/25: 地震研スプリングスクール「水槽実験・観測・数値計算を通して津波の基礎を学ぶ」開講． [[リンク]](https://www.eri.u-tokyo.ac.jp/education/spring_school_2025/) [[雑感]](https://osm3dan.github.io/jp_site/pages/zakkan/#:~:text=2025.-,2025/3/26.,-%E5%9C%B0%E9%9C%87%E7%A0%94%E3%82%B9%E3%83%97%E3%83%AA%E3%83%B3%E3%82%B0) 
 
