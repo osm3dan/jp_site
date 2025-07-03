@@ -6,8 +6,6 @@ title: 論文
 
 ### 投稿済み論文
 
-三反畑修, 鳥島近海で繰り返す不思議な津波 —海底カルデラ火山における「トラップドア断層破壊」―. *地震ジャーナル*. 
-
 -
 
 ### 査読付き論文
@@ -98,6 +96,10 @@ Sandanbata, O., Obara, K., Maeda, T., Takagi, R., & Satake, K. (2015). Sudden ch
 
 ### 寄稿
 
+三反畑修 (2025), 鳥島近海で繰り返す不思議な津波 —海底カルデラ火山における「トラップドア断層破壊」―. *地震ジャーナル*., 79, p.49-62. [https://www.adep.jp/public/public_bn.html#79](https://www.adep.jp/public/public_bn.html#79)
+
+-
+
 三反畑修 (2024). 鳥島近海から突然押し寄せた「謎の津波」の正体は, *[日本地震学会広報誌「なゐふる」](https://www.zisin.jp/publications/naifuru.html)*, 137, 2-3.
 [https://www.zisin.jp/publications/pdf/nf-vol137.pdf](https://www.zisin.jp/publications/pdf/nf-vol137.pdf)
 
@@ -108,3 +110,4 @@ Sandanbata, O., Obara, K., Maeda, T., Takagi, R., & Satake, K. (2015). Sudden ch
 -
 
 三反畑修 (2019).『急がば回れ』でようやく辿り着いた Caltech, *[日本地震学会ニュースレター](https://www.zisin.jp/publications/news72.html)*, 72巻，第NL4号, 48–49. 2019年11月10日発行. [PDF](/assets/publications/SSJ_newsletter.pdf)
+

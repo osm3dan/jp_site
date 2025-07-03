@@ -8,7 +8,9 @@ layout: post
 
 ### 2025.
 
-2025/05/28: JpGU2025「海域火山」セッション 招待講演. [[Link]](https://confit.atlas.jp/guide/event/jpgu2025/subject/SVC36-03/detail) 
+2025/06/25: トラップドア断層破壊についての解説論文掲載. [[地震ジャーナル]](https://www.adep.jp/public/public_bn.html#79) 
+
+2025/05/28: JpGU2025「海域火山」セッション 招待講演. [[リンク]](https://confit.atlas.jp/guide/event/jpgu2025/subject/SVC36-03/detail) 
 
 2025/05/14: 日本火山学会「研究奨励賞」 授賞. [[リンク]](https://kazan-g.sakura.ne.jp/J/doc/awards/VSJ_Young_Scientist_Award/34.html)
 
