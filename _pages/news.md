@@ -8,13 +8,19 @@ layout: post
 
 ### 2025.
 
+2025/08/27-28: "Joint Workshop of the ERI-DPRI Tsunami Research Group 2025" 開催. 
+
+2025/08/23: ERI Summer Internship 学生受入．([ERI HP](https://www.eri.u-tokyo.ac.jp/en/international/jst-sakura-science-program/))
+
+2025/07/16: 「2025年度日本地震学会若手学術奨励賞」受賞. [[地震学会HP]](https://www.zisin.jp/news/20250716_awards.html) 
+
 2025/06/25: トラップドア断層破壊についての解説論文掲載. [[地震ジャーナル]](https://www.adep.jp/public/public_bn.html#79) 
 
 2025/05/28: JpGU2025「海域火山」セッション 招待講演. [[リンク]](https://confit.atlas.jp/guide/event/jpgu2025/subject/SVC36-03/detail) 
 
-2025/05/14: 日本火山学会「研究奨励賞」 授賞. [[リンク]](https://kazan-g.sakura.ne.jp/J/doc/awards/VSJ_Young_Scientist_Award/34.html)
+2025/05/14: 「2025年度日本火山学会研究奨励賞」授賞. [[リンク]](https://kazan-g.sakura.ne.jp/J/doc/awards/VSJ_Young_Scientist_Award/34.html)
 
-2025/05/14: 地震研究所「第29回サイエンスカフェ」 話題提供. [[リンク]](https://www.eri.u-tokyo.ac.jp/gallery/23839/)
+2025/05/14: 地震研究所「第29回サイエンスカフェ」話題提供. [[リンク]](https://www.eri.u-tokyo.ac.jp/gallery/23839/)
 
 2025/04/01: JSPS招へい研究者 (長期)・Hélène Le Mével博士 来訪. [[リンク]](https://www.jsps.go.jp/file/storage/j-inv/adoptlist/2025/2025_long_3_j.pdf)
 

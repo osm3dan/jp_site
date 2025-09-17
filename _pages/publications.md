@@ -84,6 +84,10 @@ Sandanbata, O., Obara, K., Maeda, T., Takagi, R., & Satake, K. (2015). Sudden ch
 
 ### 国内誌
 
+三反畑修 (2025), 鳥島近海で繰り返す不思議な津波 —海底カルデラ火山における「トラップドア断層破壊」―. *地震ジャーナル*., 79, p.49-62. [https://doi.org/10.60191/eqj.2025.79_49](https://doi.org/10.60191/eqj.2025.79_49)
+
+- 
+
 長谷川健, 松本恵子, 橋本武志, 畑真紀, 岩橋くるみ, 無盡真弓, 村松弾, 大橋正俊, 三反畑修, 嶋野岳人, 田中良, 安田裕紀 (2023). IAVCEI (国際火山学地球内部化学協会) 2023 年大会参加報告 (その 1): セッションとワークショップの概況. *火山*, 68(2), 105–113. [https://doi.org/10.18940/kazan.68.2_105](https://doi.org/10.18940/kazan.68.2_105)
 
 -
@@ -95,10 +99,6 @@ Sandanbata, O., Obara, K., Maeda, T., Takagi, R., & Satake, K. (2015). Sudden ch
 三反畑修, 塩原肇, 楠本聡, HyeJeong Kim, 大峡充己, Qi Liu, 上田拓, 小川諄, 高野和俊, 壽一哲, Yuchen Wang (2018). 津波実験水槽におけるミニチュア津波観測装置の設置, *東京大学地震研究所技術研究報告*, 24, 29-34. [https://doi.org/10.15083/00076922](https://doi.org/10.15083/00076922)
 
 ### 寄稿
-
-三反畑修 (2025), 鳥島近海で繰り返す不思議な津波 —海底カルデラ火山における「トラップドア断層破壊」―. *地震ジャーナル*., 79, p.49-62. [https://www.adep.jp/public/public_bn.html#79](https://www.adep.jp/public/public_bn.html#79)
-
--
 
 三反畑修 (2024). 鳥島近海から突然押し寄せた「謎の津波」の正体は, *[日本地震学会広報誌「なゐふる」](https://www.zisin.jp/publications/naifuru.html)*, 137, 2-3.
 [https://www.zisin.jp/publications/pdf/nf-vol137.pdf](https://www.zisin.jp/publications/pdf/nf-vol137.pdf)
