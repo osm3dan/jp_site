@@ -6,6 +6,8 @@ title: 論文
 
 ### 投稿済み論文
 
+Sandanbata, O., & Takemura, S. (2025, October 12). Full-spectrum similarity of repeating trapdoor faulting. *ESS Open Archive*. https://doi.org/10.22541/essoar.176029165.57842046/v1 (in review)
+
 -
 
 ### 査読付き論文
@@ -111,3 +113,4 @@ Sandanbata, O., Obara, K., Maeda, T., Takagi, R., & Satake, K. (2015). Sudden ch
 
 三反畑修 (2019).『急がば回れ』でようやく辿り着いた Caltech, *[日本地震学会ニュースレター](https://www.zisin.jp/publications/news72.html)*, 72巻，第NL4号, 48–49. 2019年11月10日発行. [PDF](/assets/publications/SSJ_newsletter.pdf)
 
+-

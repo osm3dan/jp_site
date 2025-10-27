@@ -8,6 +8,10 @@ layout: post
 
 ### 2025.
 
+2025/10/20: 地震学会2025年度大会 「若手学術奨励賞」受賞記念講演. 
+
+2025/10/03: 火山学会2025年度大会 「若手研究奨励賞」受賞記念講演. 
+
 2025/08/27-28: "Joint Workshop of the ERI-DPRI Tsunami Research Group 2025" 開催. 
 
 2025/08/23: ERI Summer Internship 学生受入．([ERI HP](https://www.eri.u-tokyo.ac.jp/en/international/jst-sakura-science-program/))
