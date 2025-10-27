@@ -6,7 +6,7 @@ title: 論文
 
 ### 投稿済み論文
 
-Sandanbata, O., & Takemura, S. (2025, October 12). Full-spectrum similarity of repeating trapdoor faulting. *ESS Open Archive*. https://doi.org/10.22541/essoar.176029165.57842046/v1 (in review)
+Sandanbata, O., & Takemura, S. (2025, October 12). Full-spectrum similarity of repeating trapdoor faulting. *ESS Open Archive*. [https://doi.org/10.22541/essoar.176029165.57842046/v1](https://doi.org/10.22541/essoar.176029165.57842046/v1) (in review)
 
 -
 
